@@ -10,7 +10,7 @@ body{
     min-height: 100vh;
     margin: 0;
     font-family: poppins;
-    background-image: url(/imagens/wallpaper.jpg);
+    background-color: rgba(116, 188, 221, 0.466);    
     background-repeat: no-repeat;
     background-size: cover;
 }
